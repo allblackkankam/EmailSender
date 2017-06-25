@@ -21,7 +21,7 @@ import smtplib
 print "Email Sender"
 
 mail = 'kankamsolomon@gmail.com'
-password = 'king1234.'
+password = 'password'
 message ='Testing email portal'
 receivers = 'kingklan07@hotmail.com'
 #gmail.server
